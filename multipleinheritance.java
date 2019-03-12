@@ -20,7 +20,7 @@ class C extends B{
         System.out.println("Hercules");
     }
 }
-public class multi{
+public class multipleinheritance{
 
     public static void main(String[] args) {
         
